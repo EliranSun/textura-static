@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/popcorn/static/css/main.0dccc80d.chunk.css",
-    "main.js": "/popcorn/static/js/main.2a233448.chunk.js",
-    "main.js.map": "/popcorn/static/js/main.2a233448.chunk.js.map",
-    "runtime-main.js": "/popcorn/static/js/runtime-main.7cc8f269.js",
-    "runtime-main.js.map": "/popcorn/static/js/runtime-main.7cc8f269.js.map",
-    "static/js/2.444268e0.chunk.js": "/popcorn/static/js/2.444268e0.chunk.js",
-    "static/js/2.444268e0.chunk.js.map": "/popcorn/static/js/2.444268e0.chunk.js.map",
-    "index.html": "/popcorn/index.html",
-    "precache-manifest.a65d40d7fa9dad3a58b635523fdcc8c1.js": "/popcorn/precache-manifest.a65d40d7fa9dad3a58b635523fdcc8c1.js",
-    "service-worker.js": "/popcorn/service-worker.js",
-    "static/css/main.0dccc80d.chunk.css.map": "/popcorn/static/css/main.0dccc80d.chunk.css.map",
-    "static/js/2.444268e0.chunk.js.LICENSE": "/popcorn/static/js/2.444268e0.chunk.js.LICENSE",
-    "static/media/earth.gif": "/popcorn/static/media/earth.2cf30ffd.gif",
-    "static/media/happy-people-lib.jpg": "/popcorn/static/media/happy-people-lib.007306f1.jpg",
-    "static/media/salad-making.gif": "/popcorn/static/media/salad-making.e028ac5f.gif"
+    "main.css": "/textura-static/static/css/main.0dccc80d.chunk.css",
+    "main.js": "/textura-static/static/js/main.fa8033d2.chunk.js",
+    "main.js.map": "/textura-static/static/js/main.fa8033d2.chunk.js.map",
+    "runtime-main.js": "/textura-static/static/js/runtime-main.9ec6113a.js",
+    "runtime-main.js.map": "/textura-static/static/js/runtime-main.9ec6113a.js.map",
+    "static/js/2.c6891444.chunk.js": "/textura-static/static/js/2.c6891444.chunk.js",
+    "static/js/2.c6891444.chunk.js.map": "/textura-static/static/js/2.c6891444.chunk.js.map",
+    "index.html": "/textura-static/index.html",
+    "precache-manifest.dcb2d1dbc326aeb8602c272d4444c419.js": "/textura-static/precache-manifest.dcb2d1dbc326aeb8602c272d4444c419.js",
+    "service-worker.js": "/textura-static/service-worker.js",
+    "static/css/main.0dccc80d.chunk.css.map": "/textura-static/static/css/main.0dccc80d.chunk.css.map",
+    "static/js/2.c6891444.chunk.js.LICENSE": "/textura-static/static/js/2.c6891444.chunk.js.LICENSE",
+    "static/media/earth.gif": "/textura-static/static/media/earth.2cf30ffd.gif",
+    "static/media/happy-people-lib.jpg": "/textura-static/static/media/happy-people-lib.007306f1.jpg",
+    "static/media/salad-making.gif": "/textura-static/static/media/salad-making.e028ac5f.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.7cc8f269.js",
-    "static/js/2.444268e0.chunk.js",
+    "static/js/runtime-main.9ec6113a.js",
+    "static/js/2.c6891444.chunk.js",
     "static/css/main.0dccc80d.chunk.css",
-    "static/js/main.2a233448.chunk.js"
+    "static/js/main.fa8033d2.chunk.js"
   ]
 }
